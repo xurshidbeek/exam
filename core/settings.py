@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     'contact',
     'shop',
     'app',
+    #export
+    'import_export'
 ]
 
 MIDDLEWARE = [
